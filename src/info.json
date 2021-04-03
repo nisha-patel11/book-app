@@ -1,0 +1,24 @@
+{
+  "books": [
+    {
+      "title": "Chitra",
+      "price": "300",
+      "image": "blob:http://localhost:3000/9659b0f3-49aa-424a-b02f-af8ecc0b972e",
+      "author": "Rabindranath Tagore",
+      "ratings": "3",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry",
+      "category": "Fiction",
+      "id": 2
+    },
+    {
+      "title": "Kulliyat",
+      "price": "123",
+      "image": "blob:http://localhost:3000/8a45102e-6373-4ea9-a2c1-ba41b70d98af",
+      "author": "Ghalib",
+      "ratings": "560",
+      "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. ",
+      "category": "Interest",
+      "id": 3
+    }
+  ]
+}
